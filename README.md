@@ -1,8 +1,8 @@
-# Kagge-Predict-Rent-in-New-York
+# Kagge Competetion - Predict Rent in New York
 
 Submitted by: **NING YANG**
 
-Time spent: ** 70  ** hours spent in total
+Time spent: **70** hours spent in total
 
 This project is a part of Course APANPS5200- APPLIED ANALYTICS FRAMEWORKS & METHODS I(R programming) in Columbia University.
 
