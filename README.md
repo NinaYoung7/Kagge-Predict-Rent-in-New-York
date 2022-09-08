@@ -4,6 +4,8 @@ Submitted by: **NING YANG**
 
 Time spent: **70** hours spent in total
 
+Tools Used: R
+
 This project is a part of Course APANPS5200- APPLIED ANALYTICS FRAMEWORKS & METHODS I(R programming) in Columbia University.
 
 
